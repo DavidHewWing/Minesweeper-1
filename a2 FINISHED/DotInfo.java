@@ -1,4 +1,4 @@
-
+ 
 /**
  * The class <b>DotInfo</b> is a simple helper class to store 
  * the state (e.g. clicked, mined, number of neighbooring mines...) 

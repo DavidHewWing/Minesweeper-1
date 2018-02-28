@@ -27,7 +27,7 @@ public class GameController implements ActionListener{
      * 
      * @param width
      *            the width of the board on which the game will be played
-     * @param height
+     * @param heigth
      *            the height of the board on which the game will be played
      * @param numberOfMines
      *            the number of mines hidden in the board
