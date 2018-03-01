@@ -4,6 +4,12 @@ import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
+// Author: Kyle Pinkerton, David Hew-Wing
+// Student number: 8122569, 300013907
+// Course: ITI 1121-B0
+// Assignment: 2
+// Question: 
+
 /**
  * The class <b>GameView</b> provides the current view of the entire Game. It extends
  * <b>JFrame</b> and lays out a matrix of <b>DotButton</b> (the actual game) and 

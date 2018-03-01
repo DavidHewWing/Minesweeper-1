@@ -6,6 +6,12 @@
  * @author Marcel Turcotte (turcotte@eecs.uottawa.ca)
  */
 
+// Author: Kyle Pinkerton, David Hew-Wing
+// Student number: 8122569, 300013907
+// Course: ITI 1121-B0
+// Assignment: 2
+// Question: 
+
 public class StudentInfo {
 
     /**

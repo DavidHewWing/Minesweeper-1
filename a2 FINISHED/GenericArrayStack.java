@@ -1,3 +1,10 @@
+
+// Author: Kyle Pinkerton, David Hew-Wing
+// Student number: 8122569, 300013907
+// Course: ITI 1121-B0
+// Assignment: 2
+// Question: 
+
 public class GenericArrayStack<E> implements Stack<E> {
    
    private E[] elems;

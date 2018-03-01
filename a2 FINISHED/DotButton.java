@@ -6,6 +6,12 @@ import javax.swing.JButton;
 import javax.swing.BorderFactory;
 import javax.swing.border.Border;
 
+// Author: Kyle Pinkerton, David Hew-Wing
+// Student number: 8122569, 300013907
+// Course: ITI 1121-B0
+// Assignment: 2
+// Question: 
+
 /**
  * In the application <b>Minesweeper</b>, a <b>DotButton</b> is a specialized type of
  * <b>JButton</b> that represents a square in the game. 

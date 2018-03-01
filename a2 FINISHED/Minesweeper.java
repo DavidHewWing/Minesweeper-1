@@ -1,10 +1,17 @@
 
-
 /**
  * The class <b>Mineseeper</b> launches the game
  *
  * @author Guy-Vincent Jourdan, University of Ottawa
  */
+
+// Author: Kyle Pinkerton, David Hew-Wing
+// Student number: 8122569, 300013907
+// Course: ITI 1121-B0
+// Assignment: 2
+// Question: 
+
+
 public class Minesweeper {
 
      // ADD YOUR INSTANCE VARIABLES HERE
@@ -27,6 +34,7 @@ public class Minesweeper {
      *            command line parameters
      */
      public static void main(String[] args) {
+        StudentInfo.display();
         int width   = DEFAULT_WIDTH;
         int heigth  = DEFAULT_HEIGTH;
         int numberOfMines = DEFAULT_MINES;
