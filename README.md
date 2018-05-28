@@ -1,2 +1,2 @@
-# assignment2
+# Java Minesweeper
 Minesweeper using JFrame and Stack implementation.
