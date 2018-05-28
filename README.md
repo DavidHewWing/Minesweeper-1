@@ -1,2 +1,2 @@
 # assignment2
-Minesweeper using JFrame and Stack implementationn.
+Minesweeper using JFrame and Stack implementation.
